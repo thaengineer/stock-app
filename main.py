@@ -7,7 +7,7 @@ from StockBrain import BrainStock
 
 
 stock         = BrainStock()
-stock.api_key = 'XNJN1FCL3284O9WT' # need to remove at some point
+stock.api_key = ''
 
 widgetCSS = """
     QMainWindow {
